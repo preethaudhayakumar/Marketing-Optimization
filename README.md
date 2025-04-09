@@ -22,11 +22,11 @@ client might receive an offer for a consumer loan, a new credit card, or an inve
 mutual funds based on their profile and financial behavior.
 
 Task Breakdown
-1. 2. Create Analytical Datasets: Prepare both train and test datasets using the provided data.
-Develop Propensity Models: Build three models to estimate the likelihood of purchase
+1.Create Analytical Datasets: Prepare both train and test datasets using the provided data.
+2.Develop Propensity Models: Build three models to estimate the likelihood of purchase
 for:
-3. a. Consumer Loan
-b. Credit Card
-c. Mutual Fund
-Optimize Targeting Strategy: Select clients to target with marketing offers to maximize
-revenue, adhering to the constraints. Clearly document your approach.
+- a. Consumer Loan
+- b. Credit Card
+- c. Mutual Fund
+3.Optimize Targeting Strategy: Select clients to target with marketing offers to maximize
+revenue, adhering to the constraints.
